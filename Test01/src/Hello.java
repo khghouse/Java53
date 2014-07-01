@@ -1,5 +1,7 @@
 
-public class Hello
-{
-	// 조장만 업로드..
+public class Hello {
+	public static void main(String[] args) {
+		
+	}
+
 }
